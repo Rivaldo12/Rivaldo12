@@ -1,4 +1,4 @@
-## Voce esta na minha casa
+# Confusão de codigo!
 ## Seja bem vindo ao meu lar de codigos.🤠
 ![Rivaldo M. Silva GitHub stats](https://github-readme-stats.vercel.app/api?username=Rivaldo12&show_icons=true)
 ## Logo abaixo estão minhas skills atuais
